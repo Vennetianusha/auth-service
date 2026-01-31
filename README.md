@@ -1,4 +1,4 @@
-🔐 Multi-Provider OAuth 2.0 Authentication Service
+## 🔐 Multi-Provider OAuth 2.0 Authentication Service
 
 **JWT • RBAC • Docker • Prisma • PostgreSQL • Redis**
 
