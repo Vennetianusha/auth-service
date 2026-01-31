@@ -5,7 +5,6 @@
 A production-ready, fully containerized authentication service built with **Node.js, Express, Prisma, PostgreSQL, and Redis**.  
 This service supports **local authentication**, **OAuth 2.0 (Google & GitHub)**, **JWT-based sessions**, and **Role-Based Access Control (RBAC)**.
 
-> 📌 Built as part of the **Partnr Network – Global Placement Program (Mandatory Task)**
 
 ---
 
@@ -36,27 +35,6 @@ This service supports **local authentication**, **OAuth 2.0 (Google & GitHub)**,
 | Containerization | Docker, Docker Compose |
 
 ---
-
-## 📁 Project Structure
-
-auth-service/
-├── src/
-│ ├── app.js
-│ ├── index.js
-│ ├── routes/
-│ ├── controllers/
-│ ├── middleware/
-│ └── config/
-├── prisma/
-│ └── schema.prisma
-├── seeds/
-│ └── init.sql
-├── docker-compose.yml
-├── Dockerfile
-├── .env.example
-├── submission.json
-├── README.md
-└── package.json
 
 
 ---
